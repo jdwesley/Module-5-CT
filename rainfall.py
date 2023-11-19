@@ -45,5 +45,5 @@ def main():
             print(f'Average rainfall per month: {average_rainfall:.3f}')
 
 
-#if __name__ == "__main__":
-    #main()
+if __name__ == "__main__":
+    main()
